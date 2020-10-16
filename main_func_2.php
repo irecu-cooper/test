@@ -1,4 +1,4 @@
 <?php
 
-  echo 'main_function_1';
+  echo 'main_function_2';
   
