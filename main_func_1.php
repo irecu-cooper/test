@@ -1,4 +1,4 @@
 <?php
 
-  echo 'main_function_001';
+  echo 'main_function_001_from_cp-b2';
   
